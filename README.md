@@ -6,3 +6,6 @@ les suposicions que consideris oportunes.
 lliurament:
 codi (pot ser link a un repositori de codi) i una breu explicació de com ho
 has plantejat (disseny de la proposta).
+
+# Solució
+Dintre la carpeta \Doc hi ha un pdf explicant la solució
